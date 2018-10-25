@@ -11,12 +11,11 @@
   "require": {
     "embed/embed": "dev-no-check-flickr"
   },
-  "repository": {
-    [
+  "repositories":
+   [
         {
           "type": "vcs",
           "url": "https://github.com/hisayan/Embed"
         }
-    ]
-  }
+   ]
 }
